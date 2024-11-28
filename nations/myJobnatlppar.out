@@ -1,0 +1,369 @@
+miniconda3 module
+Tuning parameters for relation accusation
+Final LL 0.000000
+Tuning parameters for relation aidenemy
+Final LL -0.000003
+Tuning parameters for relation attackembassy
+Final LL -2.394787
+Tuning parameters for relation blockpositionindex
+Final LL 0.000000
+Tuning parameters for relation booktranslations
+Final LL 0.000000
+Tuning parameters for relation boycottembargo
+Final LL 0.000000
+Tuning parameters for relation commonbloc0
+Final LL 0.000000
+Tuning parameters for relation commonbloc1
+Final LL 0.000000
+Tuning parameters for relation commonbloc2
+Final LL 0.000000
+Tuning parameters for relation conferences
+Final LL 0.000000
+Tuning parameters for relation dependent
+Final LL 0.000000
+Tuning parameters for relation duration
+Final LL 0.000000
+Tuning parameters for relation economicaid
+Final LL 0.000000
+Tuning parameters for relation eemigrants
+Final LL 0.000000
+Tuning parameters for relation embassy
+Final LL 0.000000
+Tuning parameters for relation emigrants3
+Final LL 0.000000
+Tuning parameters for relation expeldiplomats
+Final LL 0.000000
+Tuning parameters for relation exportbooks
+Final LL 0.000000
+Tuning parameters for relation exports3
+Final LL 0.000000
+Tuning parameters for relation independence
+Final LL 0.000000
+Tuning parameters for relation intergovorgs
+Final LL 0.000000
+Tuning parameters for relation intergovorgs3
+Final LL 0.000000
+Tuning parameters for relation lostterritory
+Final LL -3.575799
+Tuning parameters for relation militaryactions
+Final LL 0.000000
+Tuning parameters for relation militaryalliance
+Final LL 0.000000
+Tuning parameters for relation negativebehavior
+Final LL 0.000000
+Tuning parameters for relation negativecomm
+Final LL 0.000000
+Tuning parameters for relation ngo
+Final LL 0.000000
+Tuning parameters for relation ngoorgs3
+Final LL 0.000000
+Tuning parameters for relation nonviolentbehavior
+Final LL 0.000000
+Tuning parameters for relation officialvisits
+Final LL 0.000000
+Tuning parameters for relation pprotests
+Final LL 0.000000
+Tuning parameters for relation relbooktranslations
+Final LL 0.000000
+Tuning parameters for relation reldiplomacy
+Final LL 0.000000
+Tuning parameters for relation releconomicaid
+Final LL 0.000000
+Tuning parameters for relation relemigrants
+Final LL 0.000000
+Tuning parameters for relation relexportbooks
+Final LL 0.000000
+Tuning parameters for relation relexports
+Final LL 0.000000
+Tuning parameters for relation relintergovorgs
+Final LL 0.000000
+Tuning parameters for relation relngo
+Final LL 0.000000
+Tuning parameters for relation relstudents
+Final LL 0.000000
+Tuning parameters for relation reltourism
+Final LL 0.000000
+Tuning parameters for relation reltreaties
+Final LL 0.000000
+Tuning parameters for relation severdiplomatic
+Final LL -3.576642
+Tuning parameters for relation students
+Final LL 0.000000
+Tuning parameters for relation timesinceally
+Final LL 0.000000
+Tuning parameters for relation timesincewar
+Final LL 0.000000
+Tuning parameters for relation tourism
+Final LL 0.000000
+Tuning parameters for relation tourism3
+Final LL 0.000000
+Tuning parameters for relation treaties
+Final LL 0.000000
+Tuning parameters for relation unoffialacts
+Final LL 0.000000
+Tuning parameters for relation unweightedunvote
+Final LL 0.000000
+Tuning parameters for relation violentactions
+Final LL 0.000000
+Tuning parameters for relation warning
+Final LL -0.000001
+Tuning parameters for relation weightedunvote
+Final LL 0.000000
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: -3.337863745400682e-06
+Random restart score: -3.337863745400682e-06
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: -0.15424907207489014
+Iteration 2, Log-Likelihood: -1.701664686203003
+Iteration 3, Log-Likelihood: -2.3472800254821777
+Iteration 4, Log-Likelihood: -2.3925766944885254
+Iteration 5, Log-Likelihood: -2.39469051361084
+Iteration 6, Log-Likelihood: -2.394787311553955
+Random restart score: -2.394787311553955
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: -0.0017250756500288844
+Iteration 2, Log-Likelihood: -0.882422924041748
+Iteration 3, Log-Likelihood: -3.029317855834961
+Iteration 4, Log-Likelihood: -3.5938470363616943
+Iteration 5, Log-Likelihood: -3.6189990043640137
+Iteration 6, Log-Likelihood: -3.6024961471557617
+Iteration 7, Log-Likelihood: -3.5907070636749268
+Iteration 8, Log-Likelihood: -3.5839738845825195
+Iteration 9, Log-Likelihood: -3.580259084701538
+Iteration 10, Log-Likelihood: -3.5782217979431152
+Iteration 11, Log-Likelihood: -3.577104091644287
+Iteration 12, Log-Likelihood: -3.57649564743042
+Iteration 13, Log-Likelihood: -3.5761594772338867
+Iteration 14, Log-Likelihood: -3.5759687423706055
+Iteration 15, Log-Likelihood: -3.575864791870117
+Iteration 16, Log-Likelihood: -3.575798511505127
+Random restart score: -3.575798511505127
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: -0.0006141109042800963
+Iteration 2, Log-Likelihood: -0.7170699834823608
+Iteration 3, Log-Likelihood: -2.8879969120025635
+Iteration 4, Log-Likelihood: -3.5627708435058594
+Iteration 5, Log-Likelihood: -3.6090469360351562
+Iteration 6, Log-Likelihood: -3.5979132652282715
+Iteration 7, Log-Likelihood: -3.5885696411132812
+Iteration 8, Log-Likelihood: -3.58315372467041
+Iteration 9, Log-Likelihood: -3.5801610946655273
+Iteration 10, Log-Likelihood: -3.578526020050049
+Iteration 11, Log-Likelihood: -3.5776309967041016
+Iteration 12, Log-Likelihood: -3.5771450996398926
+Iteration 13, Log-Likelihood: -3.5768723487854004
+Iteration 14, Log-Likelihood: -3.576724052429199
+Iteration 15, Log-Likelihood: -3.5766422748565674
+Random restart score: -3.5766422748565674
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: -1.4901172562531428e-06
+Random restart score: -1.4901172562531428e-06
+Restart number 0
+Iteration 0, Log-Likelihood: 0.0
+Iteration 1, Log-Likelihood: 0.0
+Random restart score: 0.0
+miniconda3 module
+
+CondaError: Run 'conda init' before 'conda deactivate'
+
