@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0d1cdb27a27362b1efba0e9ae17b80930ce2499241291005f1c0557b4b21c5ea
-size 307
+:- use_module(library(liftcover)).
+
+:- [train].
+
+:-lift.
+
+:- set_lift(verbosity,5).
+:- set_lift(parameter_learning,em_torch).
+:- set_lift(processor,gpu).
+:- set_lift(threads,2).
+
+:- initialization(main,main).
+main:-
+  read_rules_anyburl('learn/anyburl-rules.txt', R),
+  compute_stats_pos_kg(R,'stats.pl').
+
