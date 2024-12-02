@@ -10,3 +10,5 @@ scriptlp4kgtorchpar.sh filter=lfs diff=lfs merge=lfs -text
 test.del filter=lfs diff=lfs merge=lfs -text
 train.del filter=lfs diff=lfs merge=lfs -text
 valid.del filter=lfs diff=lfs merge=lfs -text
+train.* filter=lfs diff=lfs merge=lfs -text
+learn/anyburl-rules.txt filter=lfs diff=lfs merge=lfs -text
