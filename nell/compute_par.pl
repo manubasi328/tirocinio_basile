@@ -12,5 +12,5 @@
 :- initialization(main,main).
 main:-
   read_rules_anyburl('learn/anyburl-rules.txt', R),
-  compute_par_kg(R,'stats.pl',R1),
+  compute_par_pos_kg(R,'stats.pl',R1),
   write_rules_anyburl(R1,'out_lp4kg_torch_lf.txt').
