@@ -1,3 +1,6 @@
 fbk237/train.pl filter=lfs diff=lfs merge=lfs -text
 train.pl filter=lfs diff=lfs merge=lfs -text
 learn/anyburl-rules.txt filter=lfs diff=lfs merge=lfs -text
+train.txt filter=lfs diff=lfs merge=lfs -text
+test.txt filter=lfs diff=lfs merge=lfs -text
+valid.txt filter=lfs diff=lfs merge=lfs -text
